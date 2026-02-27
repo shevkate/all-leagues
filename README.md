@@ -4,6 +4,8 @@ A single-page application that fetches and displays sports leagues from [TheSpor
 
 Built with Vue 3 + TypeScript + Vite.
 
+**Live demo:** https://shevkate.github.io/all-leagues/
+
 ## Prerequisites
 
 - Node.js 18+
